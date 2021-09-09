@@ -1,0 +1,7 @@
+[Variables]
+filament_loaded = 'false'
+filament_used = 0.0
+filterusetime = 0
+lastservicetime = 0
+totalprintingtime = 0
+

@@ -40,3 +40,4 @@ plot_new() {
 
 remove_old
 plot_new
+
