@@ -1,0 +1,1 @@
+grep --color -P "SUCHENACH" *.cfg

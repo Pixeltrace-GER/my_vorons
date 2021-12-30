@@ -1,7 +1,11 @@
 [Variables]
-filament_loaded = 'true'
-filament_used = 42206.80079
-filterusetime = 31018
-lastservicetime = 31018
-totalprintingtime = 31018
+ercf_calib_0 = 1.0
+ercf_calib_1 = 0.998263098997
+ercf_calib_2 = 1.00567332349
+ercf_calib_3 = 1.00248408462
+ercf_calib_4 = 1.00036913929
+ercf_calib_5 = 1.00354491434
+ercf_calib_ref = 811.514784
+filament_loaded = True
+print_stats = {'filament': 0.0, 'time': {'filter': 2062, 'total': 2062, 'service': 2062}}
 
