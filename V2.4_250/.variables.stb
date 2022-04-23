@@ -7,5 +7,5 @@ ercf_calib_4 = 1.00036913929
 ercf_calib_5 = 1.00354491434
 ercf_calib_ref = 811.514784
 filament_loaded = True
-print_stats = {'filament': 0.0, 'time': {'filter': 2062, 'total': 2062, 'service': 2062}}
+print_stats = {'filament': 660356.3204626048, 'time': {'filter': 499738, 'total': 499738, 'service': 499738}}
 
